@@ -1,0 +1,1105 @@
+{
+  "count": 100,
+  "potions": [
+    {
+      "id": "potion_001",
+      "name": "Wiggenweld Potion",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_001",
+        "ingredient_018",
+        "ingredient_042"
+      ]
+    },
+    {
+      "id": "potion_002",
+      "name": "Felix Felicis",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_003",
+        "ingredient_020",
+        "ingredient_044"
+      ]
+    },
+    {
+      "id": "potion_003",
+      "name": "Polyjuice Potion",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_005",
+        "ingredient_022",
+        "ingredient_046"
+      ]
+    },
+    {
+      "id": "potion_004",
+      "name": "Amortentia",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_007",
+        "ingredient_024",
+        "ingredient_048"
+      ]
+    },
+    {
+      "id": "potion_005",
+      "name": "Veritaserum",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_009",
+        "ingredient_026",
+        "ingredient_050"
+      ]
+    },
+    {
+      "id": "potion_006",
+      "name": "Draught of Peace",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_011",
+        "ingredient_028",
+        "ingredient_052"
+      ]
+    },
+    {
+      "id": "potion_007",
+      "name": "Skele-Gro",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_013",
+        "ingredient_030",
+        "ingredient_054"
+      ]
+    },
+    {
+      "id": "potion_008",
+      "name": "Pepperup Potion",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_015",
+        "ingredient_032",
+        "ingredient_056"
+      ]
+    },
+    {
+      "id": "potion_009",
+      "name": "Elixir of Life",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_017",
+        "ingredient_034",
+        "ingredient_058"
+      ]
+    },
+    {
+      "id": "potion_010",
+      "name": "Strengthening Solution",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_019",
+        "ingredient_036",
+        "ingredient_060"
+      ]
+    },
+    {
+      "id": "potion_011",
+      "name": "Confusing Concoction",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_021",
+        "ingredient_038",
+        "ingredient_062"
+      ]
+    },
+    {
+      "id": "potion_012",
+      "name": "Invigoration Draught",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_023",
+        "ingredient_040",
+        "ingredient_064"
+      ]
+    },
+    {
+      "id": "potion_013",
+      "name": "Wideye Potion",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_025",
+        "ingredient_042",
+        "ingredient_066"
+      ]
+    },
+    {
+      "id": "potion_014",
+      "name": "Dreamless Sleep Potion",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_027",
+        "ingredient_044",
+        "ingredient_068"
+      ]
+    },
+    {
+      "id": "potion_015",
+      "name": "Antidote to Common Poisons",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_029",
+        "ingredient_046",
+        "ingredient_070"
+      ]
+    },
+    {
+      "id": "potion_016",
+      "name": "Beautification Potion",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_031",
+        "ingredient_048",
+        "ingredient_072"
+      ]
+    },
+    {
+      "id": "potion_017",
+      "name": "Fire-Protection Potion",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_033",
+        "ingredient_050",
+        "ingredient_074"
+      ]
+    },
+    {
+      "id": "potion_018",
+      "name": "Forgetfulness Potion",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_035",
+        "ingredient_052",
+        "ingredient_076"
+      ]
+    },
+    {
+      "id": "potion_019",
+      "name": "Hate Potion",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_037",
+        "ingredient_054",
+        "ingredient_078"
+      ]
+    },
+    {
+      "id": "potion_020",
+      "name": "Herbicide Potion",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_039",
+        "ingredient_056",
+        "ingredient_080"
+      ]
+    },
+    {
+      "id": "potion_021",
+      "name": "Wizarding Elixir 021",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_041",
+        "ingredient_058",
+        "ingredient_082"
+      ]
+    },
+    {
+      "id": "potion_022",
+      "name": "Wizarding Elixir 022",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_043",
+        "ingredient_060",
+        "ingredient_084"
+      ]
+    },
+    {
+      "id": "potion_023",
+      "name": "Wizarding Elixir 023",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_045",
+        "ingredient_062",
+        "ingredient_086"
+      ]
+    },
+    {
+      "id": "potion_024",
+      "name": "Wizarding Elixir 024",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_047",
+        "ingredient_064",
+        "ingredient_088"
+      ]
+    },
+    {
+      "id": "potion_025",
+      "name": "Wizarding Elixir 025",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_049",
+        "ingredient_066",
+        "ingredient_090"
+      ]
+    },
+    {
+      "id": "potion_026",
+      "name": "Wizarding Elixir 026",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_051",
+        "ingredient_068",
+        "ingredient_092"
+      ]
+    },
+    {
+      "id": "potion_027",
+      "name": "Wizarding Elixir 027",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_053",
+        "ingredient_070",
+        "ingredient_094"
+      ]
+    },
+    {
+      "id": "potion_028",
+      "name": "Wizarding Elixir 028",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_055",
+        "ingredient_072",
+        "ingredient_096"
+      ]
+    },
+    {
+      "id": "potion_029",
+      "name": "Wizarding Elixir 029",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_057",
+        "ingredient_074",
+        "ingredient_098"
+      ]
+    },
+    {
+      "id": "potion_030",
+      "name": "Wizarding Elixir 030",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_059",
+        "ingredient_076",
+        "ingredient_100"
+      ]
+    },
+    {
+      "id": "potion_031",
+      "name": "Wizarding Elixir 031",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_061",
+        "ingredient_078",
+        "ingredient_102"
+      ]
+    },
+    {
+      "id": "potion_032",
+      "name": "Wizarding Elixir 032",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_063",
+        "ingredient_080",
+        "ingredient_104"
+      ]
+    },
+    {
+      "id": "potion_033",
+      "name": "Wizarding Elixir 033",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_065",
+        "ingredient_082",
+        "ingredient_106"
+      ]
+    },
+    {
+      "id": "potion_034",
+      "name": "Wizarding Elixir 034",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_067",
+        "ingredient_084",
+        "ingredient_108"
+      ]
+    },
+    {
+      "id": "potion_035",
+      "name": "Wizarding Elixir 035",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_069",
+        "ingredient_086",
+        "ingredient_110"
+      ]
+    },
+    {
+      "id": "potion_036",
+      "name": "Wizarding Elixir 036",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_071",
+        "ingredient_088",
+        "ingredient_112"
+      ]
+    },
+    {
+      "id": "potion_037",
+      "name": "Wizarding Elixir 037",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_073",
+        "ingredient_090",
+        "ingredient_114"
+      ]
+    },
+    {
+      "id": "potion_038",
+      "name": "Wizarding Elixir 038",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_075",
+        "ingredient_092",
+        "ingredient_116"
+      ]
+    },
+    {
+      "id": "potion_039",
+      "name": "Wizarding Elixir 039",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_077",
+        "ingredient_094",
+        "ingredient_118"
+      ]
+    },
+    {
+      "id": "potion_040",
+      "name": "Wizarding Elixir 040",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_079",
+        "ingredient_096",
+        "ingredient_120"
+      ]
+    },
+    {
+      "id": "potion_041",
+      "name": "Wizarding Elixir 041",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_081",
+        "ingredient_098",
+        "ingredient_122"
+      ]
+    },
+    {
+      "id": "potion_042",
+      "name": "Wizarding Elixir 042",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_083",
+        "ingredient_100",
+        "ingredient_124"
+      ]
+    },
+    {
+      "id": "potion_043",
+      "name": "Wizarding Elixir 043",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_085",
+        "ingredient_102",
+        "ingredient_126"
+      ]
+    },
+    {
+      "id": "potion_044",
+      "name": "Wizarding Elixir 044",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_087",
+        "ingredient_104",
+        "ingredient_128"
+      ]
+    },
+    {
+      "id": "potion_045",
+      "name": "Wizarding Elixir 045",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_089",
+        "ingredient_106",
+        "ingredient_130"
+      ]
+    },
+    {
+      "id": "potion_046",
+      "name": "Wizarding Elixir 046",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_091",
+        "ingredient_108",
+        "ingredient_132"
+      ]
+    },
+    {
+      "id": "potion_047",
+      "name": "Wizarding Elixir 047",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_093",
+        "ingredient_110",
+        "ingredient_134"
+      ]
+    },
+    {
+      "id": "potion_048",
+      "name": "Wizarding Elixir 048",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_095",
+        "ingredient_112",
+        "ingredient_136"
+      ]
+    },
+    {
+      "id": "potion_049",
+      "name": "Wizarding Elixir 049",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_097",
+        "ingredient_114",
+        "ingredient_138"
+      ]
+    },
+    {
+      "id": "potion_050",
+      "name": "Wizarding Elixir 050",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_099",
+        "ingredient_116",
+        "ingredient_140"
+      ]
+    },
+    {
+      "id": "potion_051",
+      "name": "Wizarding Elixir 051",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_101",
+        "ingredient_118",
+        "ingredient_142"
+      ]
+    },
+    {
+      "id": "potion_052",
+      "name": "Wizarding Elixir 052",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_103",
+        "ingredient_120",
+        "ingredient_144"
+      ]
+    },
+    {
+      "id": "potion_053",
+      "name": "Wizarding Elixir 053",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_105",
+        "ingredient_122",
+        "ingredient_146"
+      ]
+    },
+    {
+      "id": "potion_054",
+      "name": "Wizarding Elixir 054",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_107",
+        "ingredient_124",
+        "ingredient_148"
+      ]
+    },
+    {
+      "id": "potion_055",
+      "name": "Wizarding Elixir 055",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_109",
+        "ingredient_126",
+        "ingredient_150"
+      ]
+    },
+    {
+      "id": "potion_056",
+      "name": "Wizarding Elixir 056",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_111",
+        "ingredient_128",
+        "ingredient_152"
+      ]
+    },
+    {
+      "id": "potion_057",
+      "name": "Wizarding Elixir 057",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_113",
+        "ingredient_130",
+        "ingredient_154"
+      ]
+    },
+    {
+      "id": "potion_058",
+      "name": "Wizarding Elixir 058",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_115",
+        "ingredient_132",
+        "ingredient_156"
+      ]
+    },
+    {
+      "id": "potion_059",
+      "name": "Wizarding Elixir 059",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_117",
+        "ingredient_134",
+        "ingredient_158"
+      ]
+    },
+    {
+      "id": "potion_060",
+      "name": "Wizarding Elixir 060",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_119",
+        "ingredient_136",
+        "ingredient_160"
+      ]
+    },
+    {
+      "id": "potion_061",
+      "name": "Wizarding Elixir 061",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_121",
+        "ingredient_138",
+        "ingredient_162"
+      ]
+    },
+    {
+      "id": "potion_062",
+      "name": "Wizarding Elixir 062",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_123",
+        "ingredient_140",
+        "ingredient_164"
+      ]
+    },
+    {
+      "id": "potion_063",
+      "name": "Wizarding Elixir 063",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_125",
+        "ingredient_142",
+        "ingredient_166"
+      ]
+    },
+    {
+      "id": "potion_064",
+      "name": "Wizarding Elixir 064",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_127",
+        "ingredient_144",
+        "ingredient_168"
+      ]
+    },
+    {
+      "id": "potion_065",
+      "name": "Wizarding Elixir 065",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_129",
+        "ingredient_146",
+        "ingredient_170"
+      ]
+    },
+    {
+      "id": "potion_066",
+      "name": "Wizarding Elixir 066",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_131",
+        "ingredient_148",
+        "ingredient_172"
+      ]
+    },
+    {
+      "id": "potion_067",
+      "name": "Wizarding Elixir 067",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_133",
+        "ingredient_150",
+        "ingredient_174"
+      ]
+    },
+    {
+      "id": "potion_068",
+      "name": "Wizarding Elixir 068",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_135",
+        "ingredient_152",
+        "ingredient_176"
+      ]
+    },
+    {
+      "id": "potion_069",
+      "name": "Wizarding Elixir 069",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_137",
+        "ingredient_154",
+        "ingredient_178"
+      ]
+    },
+    {
+      "id": "potion_070",
+      "name": "Wizarding Elixir 070",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_139",
+        "ingredient_156",
+        "ingredient_180"
+      ]
+    },
+    {
+      "id": "potion_071",
+      "name": "Wizarding Elixir 071",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_141",
+        "ingredient_158",
+        "ingredient_182"
+      ]
+    },
+    {
+      "id": "potion_072",
+      "name": "Wizarding Elixir 072",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_143",
+        "ingredient_160",
+        "ingredient_184"
+      ]
+    },
+    {
+      "id": "potion_073",
+      "name": "Wizarding Elixir 073",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_145",
+        "ingredient_162",
+        "ingredient_186"
+      ]
+    },
+    {
+      "id": "potion_074",
+      "name": "Wizarding Elixir 074",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_147",
+        "ingredient_164",
+        "ingredient_188"
+      ]
+    },
+    {
+      "id": "potion_075",
+      "name": "Wizarding Elixir 075",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_149",
+        "ingredient_166",
+        "ingredient_190"
+      ]
+    },
+    {
+      "id": "potion_076",
+      "name": "Wizarding Elixir 076",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_151",
+        "ingredient_168",
+        "ingredient_192"
+      ]
+    },
+    {
+      "id": "potion_077",
+      "name": "Wizarding Elixir 077",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_153",
+        "ingredient_170",
+        "ingredient_194"
+      ]
+    },
+    {
+      "id": "potion_078",
+      "name": "Wizarding Elixir 078",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_155",
+        "ingredient_172",
+        "ingredient_196"
+      ]
+    },
+    {
+      "id": "potion_079",
+      "name": "Wizarding Elixir 079",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_157",
+        "ingredient_174",
+        "ingredient_198"
+      ]
+    },
+    {
+      "id": "potion_080",
+      "name": "Wizarding Elixir 080",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_159",
+        "ingredient_176",
+        "ingredient_200"
+      ]
+    },
+    {
+      "id": "potion_081",
+      "name": "Wizarding Elixir 081",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_161",
+        "ingredient_178",
+        "ingredient_002"
+      ]
+    },
+    {
+      "id": "potion_082",
+      "name": "Wizarding Elixir 082",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_163",
+        "ingredient_180",
+        "ingredient_004"
+      ]
+    },
+    {
+      "id": "potion_083",
+      "name": "Wizarding Elixir 083",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_165",
+        "ingredient_182",
+        "ingredient_006"
+      ]
+    },
+    {
+      "id": "potion_084",
+      "name": "Wizarding Elixir 084",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_167",
+        "ingredient_184",
+        "ingredient_008"
+      ]
+    },
+    {
+      "id": "potion_085",
+      "name": "Wizarding Elixir 085",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_169",
+        "ingredient_186",
+        "ingredient_010"
+      ]
+    },
+    {
+      "id": "potion_086",
+      "name": "Wizarding Elixir 086",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_171",
+        "ingredient_188",
+        "ingredient_012"
+      ]
+    },
+    {
+      "id": "potion_087",
+      "name": "Wizarding Elixir 087",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_173",
+        "ingredient_190",
+        "ingredient_014"
+      ]
+    },
+    {
+      "id": "potion_088",
+      "name": "Wizarding Elixir 088",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_175",
+        "ingredient_192",
+        "ingredient_016"
+      ]
+    },
+    {
+      "id": "potion_089",
+      "name": "Wizarding Elixir 089",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_177",
+        "ingredient_194",
+        "ingredient_018"
+      ]
+    },
+    {
+      "id": "potion_090",
+      "name": "Wizarding Elixir 090",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_179",
+        "ingredient_196",
+        "ingredient_020"
+      ]
+    },
+    {
+      "id": "potion_091",
+      "name": "Wizarding Elixir 091",
+      "description": "A brewed potion that restores health.",
+      "effect": "restores health",
+      "ingredients": [
+        "ingredient_181",
+        "ingredient_198",
+        "ingredient_022"
+      ]
+    },
+    {
+      "id": "potion_092",
+      "name": "Wizarding Elixir 092",
+      "description": "A brewed potion that grants temporary speed.",
+      "effect": "grants temporary speed",
+      "ingredients": [
+        "ingredient_183",
+        "ingredient_200",
+        "ingredient_024"
+      ]
+    },
+    {
+      "id": "potion_093",
+      "name": "Wizarding Elixir 093",
+      "description": "A brewed potion that grants temporary strength.",
+      "effect": "grants temporary strength",
+      "ingredients": [
+        "ingredient_185",
+        "ingredient_002",
+        "ingredient_026"
+      ]
+    },
+    {
+      "id": "potion_094",
+      "name": "Wizarding Elixir 094",
+      "description": "A brewed potion that grants temporary resistance.",
+      "effect": "grants temporary resistance",
+      "ingredients": [
+        "ingredient_187",
+        "ingredient_004",
+        "ingredient_028"
+      ]
+    },
+    {
+      "id": "potion_095",
+      "name": "Wizarding Elixir 095",
+      "description": "A brewed potion that grants night vision.",
+      "effect": "grants night vision",
+      "ingredients": [
+        "ingredient_189",
+        "ingredient_006",
+        "ingredient_030"
+      ]
+    },
+    {
+      "id": "potion_096",
+      "name": "Wizarding Elixir 096",
+      "description": "A brewed potion that removes negative effects.",
+      "effect": "removes negative effects",
+      "ingredients": [
+        "ingredient_191",
+        "ingredient_008",
+        "ingredient_032"
+      ]
+    },
+    {
+      "id": "potion_097",
+      "name": "Wizarding Elixir 097",
+      "description": "A brewed potion that grants slow falling.",
+      "effect": "grants slow falling",
+      "ingredients": [
+        "ingredient_193",
+        "ingredient_010",
+        "ingredient_034"
+      ]
+    },
+    {
+      "id": "potion_098",
+      "name": "Wizarding Elixir 098",
+      "description": "A brewed potion that grants water breathing.",
+      "effect": "grants water breathing",
+      "ingredients": [
+        "ingredient_195",
+        "ingredient_012",
+        "ingredient_036"
+      ]
+    },
+    {
+      "id": "potion_099",
+      "name": "Wizarding Elixir 099",
+      "description": "A brewed potion that grants fire resistance.",
+      "effect": "grants fire resistance",
+      "ingredients": [
+        "ingredient_197",
+        "ingredient_014",
+        "ingredient_038"
+      ]
+    },
+    {
+      "id": "potion_100",
+      "name": "Wizarding Elixir 100",
+      "description": "A brewed potion that briefly reveals nearby creatures.",
+      "effect": "briefly reveals nearby creatures",
+      "ingredients": [
+        "ingredient_199",
+        "ingredient_016",
+        "ingredient_040"
+      ]
+    }
+  ]
+}

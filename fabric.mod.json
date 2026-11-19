@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "wizardingworld",
+  "version": "${version}",
+  "name": "Wizarding World: Hogwarts Legacy",
+  "description": "Wizarding adventure content: 50 wands, 2,000 spells, 200 potion ingredients, 100 potions, brooms, Quidditch, wizarding currency and buildable locations.",
+  "authors": [
+    "OpenAI"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.wizardingworld.WizardingWorldMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
